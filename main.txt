@@ -1,4 +1,4 @@
 How did the enemies get in the vault?
 
 
-<size=14>Want to learn how to make mods and texture packs? <link="https://discord.gg/cell-machine-791818283867045941">Join the discord</link></size>
+<size=14>Want to learn how to make mods and texture packs? <color=blue><link="Discord">Join the discord</link></color></size>
