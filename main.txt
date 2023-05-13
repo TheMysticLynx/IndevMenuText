@@ -1,8 +1,9 @@
 Download the itch.io app for auto-updates!
 
-Looking for:
+<size=14>
+Looking for?:
 - Mods
 - Levels
 - Texture Packs
 - Videos
-<size=14><color=blue><link="Discord">Join the discord</link></color></size>
+<color=blue><link="Discord">Join the discord</link></color></size>
