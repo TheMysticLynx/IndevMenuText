@@ -1,4 +1,8 @@
-1,000,000 Cells a second!
+Download the itch.io app for auto-updates!
 
-
-<size=14>Want to learn how to make mods and texture packs? Need to report a bug? Want to Suggest a feature? <color=blue><link="Discord">Join the discord</link></color></size>
+Looking for:
+- Mods
+- Levels
+- Texture Packs
+- Videos
+<size=14><color=blue><link="Discord">Join the discord</link></color></size>
