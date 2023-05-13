@@ -6,4 +6,4 @@ Looking for?:
 - Levels
 - Texture Packs
 - Videos
-<color=blue><link="Discord">Join the discord</link></color></size>
+<color=blue><link="Discord">Click me to join the discord</link></color></size>
